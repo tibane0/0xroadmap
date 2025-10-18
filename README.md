@@ -34,7 +34,7 @@ This roadmap is meant to help guide me to becoming competent (and eventually mas
 - **Operating Systems**
 	 - Linux internals (processes, memory management, syscalls)  
 	- Basic Windows internals (PE format, WinAPI) — learn as needed for targets
-
+---
 ## Reverse Engineering
 
 ### Resources
@@ -48,7 +48,9 @@ This roadmap is meant to help guide me to becoming competent (and eventually mas
 	- WinDbg
 		- [Intro to windbg](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1011_WinDbg1+2024_v1/about)
 - [Reversing C++ binaries](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+RE3011_re_cpp+2022_v1/about)
-- 
+- [Reverse Engineering 101 From malwareunicorn](https://malwareunicorn.org/workshops/re101.html#0) 
+	- Introduction to windows malware reverse engineering
+	
 
 ### Challenges
 
@@ -57,6 +59,7 @@ This roadmap is meant to help guide me to becoming competent (and eventually mas
 -  [Crackmes](https://crackmes.one/)
 	- A website for reverse engineering challenges.
 
+---
 ## Binary Exploitation
 
 Each week do the following:
@@ -71,7 +74,16 @@ Each week do the following:
 - [Nightmare](https://guyinatuxedo.github.io/)
 - [lectures from University of Delaware on software exploitation](https://capture.udel.edu/channel/Sec%2BSoft%2B2022%2B%2528x86%2BExploitation%2529/246660612)
 - [Lectures from  UMass CyberSecurity Club](https://pwn.umasscybersec.org/index.html)
+
+#### Heap
+
 - [how2heap](https://github.com/shellphish/how2heap)
+- [ir0nstone's notes on heap exploitation](https://ir0nstone.gitbook.io/notes/binexp/heap)
+#### Kernel
+
+- [ir0nstone's notes on kernel exploitation]()
+- [Linux kernel exploitation series](https://r1ru.github.io/categories/linux-kernel-exploitation/)
+- [how2kernel](https://github.com/R3x/How2Kernel)
 ### Challenges
 
 1. **Pwn Adventure Series by Vector35**
@@ -90,6 +102,7 @@ Each week do the following:
 	- [Linux Userland](https://github.com/xforcered/PhrackCTF/tree/master/linux_userland)
 	- [Windows Kernel](https://github.com/xforcered/PhrackCTF/tree/master/windows_kernel)
 
+---
 ## Vulnerability Research
 ### Resources
 
@@ -104,12 +117,14 @@ Each week do the following:
 
 - Pick a old software and find vulnerabilities.
 
+---
 ## Systems Programming
+- coming soon
 
 ### Resources
 
 ### Projects
-
+---
 
 ## Toolbox
 
