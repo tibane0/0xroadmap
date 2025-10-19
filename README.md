@@ -75,6 +75,12 @@ Each week do the following:
 - [lectures from University of Delaware on software exploitation](https://capture.udel.edu/channel/Sec%2BSoft%2B2022%2B%2528x86%2BExploitation%2529/246660612)
 - [Lectures from  UMass CyberSecurity Club](https://pwn.umasscybersec.org/index.html)
 
+#### Articles / Blog Posts
+
+- [low level exploitation by 0xdevil](https://syst3mfailure.io/)
+- [https://connormcgarr.github.io/](https://connormcgarr.github.io/)
+- [voidsec.com](https://voidsec.com/)
+- 
 #### Heap
 
 - [how2heap](https://github.com/shellphish/how2heap)
