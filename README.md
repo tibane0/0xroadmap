@@ -33,6 +33,7 @@ This roadmap is meant to help guide me to becoming competent (and eventually mas
 	- Python (scripting / pwntools)
 - **Operating Systems**
 	 - Linux internals (processes, memory management, syscalls)  
+		 - [Julia's Drawings](https://drawings.jvns.ca/)
 	- Basic Windows internals (PE format, WinAPI) — learn as needed for targets
 ---
 ## Reverse Engineering
@@ -50,7 +51,7 @@ This roadmap is meant to help guide me to becoming competent (and eventually mas
 - [Reversing C++ binaries](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+RE3011_re_cpp+2022_v1/about)
 - [Reverse Engineering 101 From malwareunicorn](https://malwareunicorn.org/workshops/re101.html#0) 
 	- Introduction to windows malware reverse engineering
-	
+- [Reverse Engineering For Everyone](https://0xinfection.xyz/reversing/)
 
 ### Challenges
 
@@ -74,18 +75,19 @@ Each week do the following:
 - [Nightmare](https://guyinatuxedo.github.io/)
 - [lectures from University of Delaware on software exploitation](https://capture.udel.edu/channel/Sec%2BSoft%2B2022%2B%2528x86%2BExploitation%2529/246660612)
 - [Lectures from  UMass CyberSecurity Club](https://pwn.umasscybersec.org/index.html)
-
+- [https://www.lazenca.net/](https://www.lazenca.net/)
+	- Explanation of exploit techniques
 #### Articles / Blog Posts
 
 - [low level exploitation by 0xdevil](https://syst3mfailure.io/)
 - [https://connormcgarr.github.io/](https://connormcgarr.github.io/)
 - [voidsec.com](https://voidsec.com/)
-- 
-#### Heap
+
+##### Heap
 
 - [how2heap](https://github.com/shellphish/how2heap)
 - [ir0nstone's notes on heap exploitation](https://ir0nstone.gitbook.io/notes/binexp/heap)
-#### Kernel
+##### Kernel
 
 - [ir0nstone's notes on kernel exploitation]()
 - [Linux kernel exploitation series](https://r1ru.github.io/categories/linux-kernel-exploitation/)
@@ -112,13 +114,27 @@ Each week do the following:
 ## Vulnerability Research
 ### Resources
 
-- Vulnerabilityes
+- Vulnerabilities
 	- [Vuln 1001](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Vulns1001_C-family+2023_v1/about)
 	- [Vuln 1002](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Vulns1002_C-family+2023_v1/about)
 - [CVE North Stars](https://cve-north-stars.github.io/)
 	- Use freely available CVE information to learn become proficient in vulnerability analysis. This tutorial walks through practical CVE analysis, binary patch diffing, and root cause analysis.
 - [Off by one](https://www.youtube.com/@OffByOneSecurity/)
 	- Youtube channel with streams discussing vulnerability research, exploit development and reverse enginering.
+
+#### Articles/Blog Posts
+
+- [Project zero](https://googleprojectzero.blogspot.com/)
+- [Zero Day Initiative](https://www.zerodayinitiative.com/blog/) 
+- [Star Labs](https://starlabs.sg/blog/)
+
+### Real world case studies
+
+## FUZZING
+
+- [fuzzing.io](https://fuzzing.io/)
+
+
 ### Challenges
 
 - Pick a old software and find vulnerabilities.
@@ -143,3 +159,4 @@ Each week do the following:
 ## Contributing & Feedback
 
 This is a personal roadmap. If you have an excellent resource or spot an inaccuracy, feel free to open an Issue. Let's learn together.
+
