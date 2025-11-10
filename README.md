@@ -6,6 +6,10 @@ This roadmap is meant to help guide me to becoming competent (and eventually mas
 - Systems Programming
 - Vulnerability Research
 
+
+https://github.com/seal9055/resources
+
+https://ctf-wiki.org/pwn/linux/user-mode/environment/
 ## Table of Contents
 
 1. [Fundamentals](#fundamentals)
@@ -30,7 +34,7 @@ This roadmap is meant to help guide me to becoming competent (and eventually mas
 - Programming
 	- C
 	- C++
-	- Python (scripting / pwntools)
+	- Python 
 - **Operating Systems**
 	 - Linux internals (processes, memory management, syscalls)  
 		 - [Julia's Drawings](https://drawings.jvns.ca/)
@@ -39,6 +43,7 @@ This roadmap is meant to help guide me to becoming competent (and eventually mas
 ## Reverse Engineering
 
 ### Resources
+
 - [Symbolic Analysis](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+RE3201_symexec+2021_V1/about)
 	- Learn to analyze programs and determine which inputs cause which specific part of a program to execute.
 - Debugging
@@ -82,16 +87,22 @@ Each week do the following:
 - [low level exploitation by 0xdevil](https://syst3mfailure.io/)
 - [https://connormcgarr.github.io/](https://connormcgarr.github.io/)
 - [voidsec.com](https://voidsec.com/)
+- [Will's root](https://www.willsroot.io/)
+- [Corelan](https://www.corelan.be/index.php/articles/)
+- [gamozolabs](https://gamozolabs.github.io/)
 
 ##### Heap
 
+- [StarCross](https://github.com/StarCross-Tech/heap_exploit_2.31)
 - [how2heap](https://github.com/shellphish/how2heap)
 - [ir0nstone's notes on heap exploitation](https://ir0nstone.gitbook.io/notes/binexp/heap)
 ##### Kernel
-
 - [ir0nstone's notes on kernel exploitation]()
 - [Linux kernel exploitation series](https://r1ru.github.io/categories/linux-kernel-exploitation/)
 - [how2kernel](https://github.com/R3x/How2Kernel)
+- [Linux Kernel Pwn](https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/)
+- [Another Linux kernel exploitation series](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html)
+- 
 ### Challenges
 
 1. **Pwn Adventure Series by Vector35**
@@ -109,6 +120,8 @@ Each week do the following:
 4. PhrackCTF from Chompie/xforeced
 	- [Linux Userland](https://github.com/xforcered/PhrackCTF/tree/master/linux_userland)
 	- [Windows Kernel](https://github.com/xforcered/PhrackCTF/tree/master/windows_kernel)
+5. Wargames
+	- https://wargames.ret2.systems/
 
 ---
 ## Vulnerability Research
@@ -121,7 +134,7 @@ Each week do the following:
 	- Use freely available CVE information to learn become proficient in vulnerability analysis. This tutorial walks through practical CVE analysis, binary patch diffing, and root cause analysis.
 - [Off by one](https://www.youtube.com/@OffByOneSecurity/)
 	- Youtube channel with streams discussing vulnerability research, exploit development and reverse enginering.
-
+- [how to get started](https://github.com/udunadan/notes/blob/main/How%20to%20Get%20Started%20In%20Vulnerability%20Research.md)
 #### Articles/Blog Posts
 
 - [Project zero](https://googleprojectzero.blogspot.com/)
@@ -133,7 +146,8 @@ Each week do the following:
 ## FUZZING
 
 - [fuzzing.io](https://fuzzing.io/)
-
+- [Fuzzing101](https://github.com/antonio-morales/Fuzzing101)
+- [Guide to fuzz testing](https://betterstack.com/community/guides/testing/fuzz-testing/)
 
 ### Challenges
 
@@ -141,12 +155,13 @@ Each week do the following:
 
 ---
 ## Systems Programming
-- coming soon
 
-### Resources
 
-### Projects
----
+## Resources
+
+
+- [Linux kernel Dev](https://bootlin.com/doc/training/linux-kernel/)
+
 
 ## Toolbox
 
@@ -159,4 +174,3 @@ Each week do the following:
 ## Contributing & Feedback
 
 This is a personal roadmap. If you have an excellent resource or spot an inaccuracy, feel free to open an Issue. Let's learn together.
-
