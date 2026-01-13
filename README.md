@@ -1,11 +1,10 @@
-# 0xroadmap
+# Becoming A Exploit Developer & Vulnerability Researcher 
 
 This roadmap is meant to help guide me to becoming competent (and eventually master) the following skills:
 - Binary Exploitation
 - Reverse Engineering
 - Systems Programming
 - Vulnerability Research
-
 
 https://github.com/seal9055/resources
 
