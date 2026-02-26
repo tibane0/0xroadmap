@@ -101,7 +101,8 @@ Each week do the following:
 - [how2kernel](https://github.com/R3x/How2Kernel)
 - [Linux Kernel Pwn](https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/)
 - [Another Linux kernel exploitation series](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html)
-- 
+- [Pwanyable](https://pawnyable.cafe/)
+  
 ### Challenges
 
 1. **Pwn Adventure Series by Vector35**
